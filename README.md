@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @zhuruili from WHUT
-- 👀 I’m interested in computer/coding
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @zhuruili from Wuhan University of Technology
+- 👀 I’m interested in computer/coding/game
+- 🌱 I’m currently learning React/html/css/JS at FreeCodeCamp
+- 💞️ I’m curious about hacking techniques
 - 📫 You can reach me by email: 2997366615@qq.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: Him
+- ⚡ Fun fact: It took me three years of college to realize that I don't know anything at all.
 
 <!---
 zhuruili/zhuruili is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
