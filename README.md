@@ -1,3 +1,11 @@
+# RookieNoob
+
+- **GitHub**: [zhuruili](https://github.com/zhuruili)
+- **Bilibili**: [Your Bilibili Profile](https://space.bilibili.com/your_profile_id)
+- **Pixiv**: [Your Pixiv Profile](https://www.pixiv.net/en/users/your_profile_id)
+
+---
+
 - 👋 Hi, I’m @zhuruili from Wuhan University of Technology
 - 👀 I’m interested in code/game/art
 - 🌱 I’m currently learning Flask(Python)
