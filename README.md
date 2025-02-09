@@ -1,8 +1,8 @@
 # RookieNoob
 
 - **GitHub**: [zhuruili](https://github.com/zhuruili)
-- **Bilibili**: [Your Bilibili Profile](https://space.bilibili.com/your_profile_id)
-- **Pixiv**: [Your Pixiv Profile](https://www.pixiv.net/en/users/your_profile_id)
+- **Bilibili**: [她与影流皆是劫--](https://space.bilibili.com/520045387)
+- **Pixiv**: [LilaS](https://www.pixiv.net/users/93636567)
 
 ---
 
