@@ -10,8 +10,8 @@
 
 | Repository Name    | Tech Stack             |
 |--------------------|-------------------------|
-| Qt-Beginer         | ![Cpp](https://img.shields.io/badge/-Cpp-00599C?logo=c%2B%2B&logoColor=white), ![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white) |
-| SuperSupermarket   | ![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white), ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white), ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |
+| Qt-Beginer         | ![Cpp](https://img.shields.io/badge/-Cpp-00599C?logo=c%2B%2B&logoColor=white)  ![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white) |
+| SuperSupermarket   | ![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)  ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |
 | AI-hollownight     | ![Pytorch](https://img.shields.io/badge/-Pytorch-EE4C2C?logo=pytorch&logoColor=white) |
 |                    |                         |
 |                    |                         |
