@@ -1,12 +1,22 @@
 # RookieNoob
 
-- **GitHub**: [zhuruili](https://github.com/zhuruili)
-- **Bilibili**: [她与影流皆是劫--](https://space.bilibili.com/520045387)
-- **Pixiv**: [LilaS](https://www.pixiv.net/users/93636567)
+Hi there! 👋
+
+I'm just an ordinary university student with big dreams. 💭  
+Despite my self-doubt, I'm on a mission to achieve financial freedom before the age of 35, so I can live life on my own terms. 💸  
+Until then, I'm navigating the challenges of student life and figuring out my path to success. 📚  
+
+🚀 **Explore My Digital Universe!** 🚀
+
+🌟 **GitHub**: [zhuruili](https://github.com/zhuruili) - Dive into my coding adventures and check out my latest projects! 💻✨
+
+🎥 **Bilibili**: [她与影流皆是劫--](https://space.bilibili.com/520045387) - Join me on Bilibili for some awesome content and exciting videos! 📹🔥
+
+🎨 **Pixiv**: [LilaS](https://www.pixiv.net/users/93636567) - Discover my artistic creations and immerse yourself in a world of colors and imagination! 🎨🌈
 
 ---
 
-- 👋 Hi, I’m @zhuruili from Wuhan University of Technology
+- 👋 I’m @zhuruili from Wuhan University of Technology
 - 👀 I’m interested in code/game/art
 - 🌱 I’m currently learning Flask(Python)
 - 💞️ I’m curious about hacking techniques and AI art
