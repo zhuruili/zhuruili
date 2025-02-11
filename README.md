@@ -24,7 +24,7 @@ Until then, I'm navigating the challenges of student life and figuring out my pa
 - 😄 Pronouns: Him
 - ⚡ Fun fact: It took me three years of college to realize that I don't know anything at all.
 
-## Tech Stack
+## Skills
 
 | Repository Name    | Tech Stack             | One Line Description |
 |--------------------|-------------------------|-------------------------|
