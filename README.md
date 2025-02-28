@@ -42,3 +42,12 @@ Until then, I'm navigating the challenges of student life and figuring out my pa
 zhuruili/zhuruili is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<!---
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="display: flex; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhuruili&layout=compact" alt="Top Languages" style="display: block;" />
+  </a>
+</p>
+--->
+
