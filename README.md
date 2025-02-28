@@ -21,8 +21,8 @@ Until then, I'm navigating the challenges of student life and figuring out my pa
 - 🌱 I’m currently learning Flask(Python)
 - 💞️ I’m curious about hacking techniques and AI art
 - 📫 You can reach me by email: 2997366615@qq.com
-- 😄 Pronouns: Him
-- ⚡ Fun fact: It took me three years of college to realize that I don't know anything at all.
+- ⚡ Fun fact: It took me three years of college to realize that I don't know anything at all
+- 💼 I'm currently working as a Python intern at DCRAYS
 
 ## Skills
 
