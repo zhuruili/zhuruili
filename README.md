@@ -32,7 +32,6 @@ Until then, I'm navigating the challenges of student life and figuring out my pa
 | SimplePygame       | ![Pygame](https://img.shields.io/badge/-Pygame-3776AB?logo=python&logoColor=white) | Some simple games written in Python. |
 | Spider             | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Spider](https://img.shields.io/badge/🕷️%20Spider-white) | Some simple web scraping codes. |
 | AI-Hollow-Knight   | ![Pytorch](https://img.shields.io/badge/-Pytorch-EE4C2C?logo=pytorch&logoColor=white) | Training little-knight to fight using DQN. |
-| Responsive-Web-Design-FCC | ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) | The code I submitted during my Free Code Camp studies. |
 | EasyHouse          | ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) | A Flask based intelligent rental web application. |
 | TodoList           | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) | A simple React app learning from MDN. |
 | SuperSuperMarket   | ![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)  ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) | A simple shopping web application. |
