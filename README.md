@@ -33,7 +33,6 @@ Until then, I'm navigating the challenges of student life and figuring out my pa
 | Spider             | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Spider](https://img.shields.io/badge/🕷️%20Spider-white) | Some simple web scraping codes. |
 | AI-Hollow-Knight   | ![Pytorch](https://img.shields.io/badge/-Pytorch-EE4C2C?logo=pytorch&logoColor=white) | Training little-knight to fight using DQN. |
 | EasyHouse          | ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) | A Flask based intelligent rental web application. |
-| TodoList           | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) | A simple React app learning from MDN. |
 | SuperSuperMarket   | ![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)  ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) | A simple shopping web application. |
 | Qt-Beginner        | ![Cpp](https://img.shields.io/badge/-Cpp-00599C?logo=c%2B%2B&logoColor=white)  ![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white) | Basic Qt examples using Qt6. |
 
