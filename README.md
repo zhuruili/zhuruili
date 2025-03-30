@@ -31,6 +31,7 @@ Until then, I'm navigating the challenges of student life and figuring out my pa
 | zhuruili           | ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white) | README. |
 | SimplePygame       | ![Pygame](https://img.shields.io/badge/-Pygame-3776AB?logo=python&logoColor=white) | Some simple games written in Python. |
 | Spider             | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Spider](https://img.shields.io/badge/🕷️%20Spider-white) | Some simple web scraping codes. |
+| Infinite Shakespeare   | ![Pytorch](https://img.shields.io/badge/-Pytorch-EE4C2C?logo=pytorch&logoColor=white) | A simple GPT based on transformer. |
 | AI-Hollow-Knight   | ![Pytorch](https://img.shields.io/badge/-Pytorch-EE4C2C?logo=pytorch&logoColor=white) | Training little-knight to fight using DQN. |
 | EasyHouse          | ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) | A Flask based intelligent rental web application. |
 | SuperSuperMarket   | ![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)  ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) | A simple shopping web application. |
