@@ -22,7 +22,7 @@ Until then, I'm navigating the challenges of student life and figuring out my pa
 - 💞️ I’m curious about hacking techniques and AI art
 - 📫 You can reach me by email: 2997366615@qq.com
 - ⚡ Fun fact: It took me three years of college to realize that I don't know anything at all
-- 💼 I used to work as a Python intern at DCRAYS
+- 💼 I am working as a Client Development Intern at Tencent
 
 ## Skills
 
