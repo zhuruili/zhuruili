@@ -17,12 +17,12 @@ Until then, I'm navigating the challenges of student life and figuring out my pa
 ---
 
 - 👋 I’m @zhuruili from Wuhan University of Technology
-- 👀 I’m interested in code/game/art
-- 🌱 I’m currently learning Pytorch and Qt
+- 👀 I’m interested in code/game/art/music
+- 🌱 I’m currently learning game development
 - 💞️ I’m curious about hacking techniques and AI art
 - 📫 You can reach me by email: 2997366615@qq.com
 - ⚡ Fun fact: It took me three years of college to realize that I don't know anything at all
-- 💼 I am working as a Client Development Intern at Tencent
+- 💼 I was a Client Development Intern at Tencent
 
 ## Skills
 
