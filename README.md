@@ -35,8 +35,7 @@ Until then, I'm navigating the challenges of student life and figuring out my pa
 | AI-Hollow-Knight   | ![Pytorch](https://img.shields.io/badge/-Pytorch-EE4C2C?logo=pytorch&logoColor=white) | Training little-knight to fight using DQN. |
 | EasyHouse          | ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) | A Flask based intelligent rental web application. |
 | SuperSuperMarket   | ![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)  ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) | A simple shopping web application. |
-| Qt-Beginner        | ![Cpp](https://img.shields.io/badge/-Cpp-00599C?logo=c%2B%2B&logoColor=white)  ![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white) | Basic Qt examples using Qt6. |
-
+| Godot-Knight | ![Godot](https://img.shields.io/badge/-Godot-478CBF?logo=godot-engine&logoColor=white) ![GDScript](https://img.shields.io/badge/-GDScript-478CBF?logo=godot-engine&logoColor=white) | A Hollow Knight BOSS battle imitation mini-game based on Godot4.4.1 |
 
 <!---
 zhuruili/zhuruili is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
