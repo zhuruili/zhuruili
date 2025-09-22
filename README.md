@@ -29,7 +29,6 @@ Until then, I'm navigating the challenges of student life and figuring out my pa
 | Repository Name    | Tech Stack             | One Line Description |
 |--------------------|-------------------------|-------------------------|
 | zhuruili           | ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white) | README. |
-| SimplePygame       | ![Pygame](https://img.shields.io/badge/-Pygame-3776AB?logo=python&logoColor=white) | Some simple games written in Python. |
 | Spider             | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Spider](https://img.shields.io/badge/🕷️%20Spider-white) | Some simple web scraping codes. |
 | Infinite Shakespeare   | ![Pytorch](https://img.shields.io/badge/-Pytorch-EE4C2C?logo=pytorch&logoColor=white) | A simple GPT based on transformer. |
 | AI-Hollow-Knight   | ![Pytorch](https://img.shields.io/badge/-Pytorch-EE4C2C?logo=pytorch&logoColor=white) | Training little-knight to fight using DQN. |
